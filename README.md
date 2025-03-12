@@ -1,3 +1,3 @@
 # MIV-Dataset
-海上的红外和可见光图像对
-# Five pairs of maritime infrared and visible images have been made public, and the remaining images will be released after the paper is accepted.
+Maritime-aligned infrared and visible images
+# Part of maritime infrared and visible images have been made public. The remaining images of MIV Dataset will be released after the paper is published.
